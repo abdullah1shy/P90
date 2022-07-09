@@ -1,9 +1,11 @@
 "logo": "https://telegra.ph/file/a8cc39c34ae7128fd26af.jpg" 
+"name":
+"description:"اسم التطبيق"
 "api_key"{
-"description":xxxxx
+"description":"توكن البوت" 
 value:"1894568727:AAGtSVuJVmAAOSlnnBCM1J73qQ1fnTEvIr0" 
 api_id{
-"description":xlxxxx
+"description":"ايبي ايدي" 
 "value": "7684100" 
 
 
